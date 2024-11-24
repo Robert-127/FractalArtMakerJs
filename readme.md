@@ -1,0 +1,1 @@
+Fractal Research Tool: A comprehensive tool for researchers studying fractals. Analyze and visualize data with advanced features!
